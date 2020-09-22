@@ -1,0 +1,107 @@
+body {
+  background-color:khaki;
+}
+#original {
+  text-align:center;
+  font-size:27px;
+  font-weight:bold;
+  color:white;
+}
+#origin {
+  text-align:center;
+  font-size:25px;
+  color:black;
+}
+.nav-link {
+  font-size:21px;
+  color:white;
+}
+.nav-link:hover {
+  color:brown;
+}
+.card {
+  padding:5px;
+  margin:10px 5px;
+  background-color:khaki;
+}
+#fill {
+  border:1px solid silver;
+}
+#mid {
+  word-spacing:2px;
+  font-size:20px;
+}
+#pics {
+  justify-content:center;
+}
+.img-thumbnail {
+  background-color:tan;
+}
+#click {
+  margin-left:100px;
+}
+#clicker {
+  margin-left:115px;
+}
+#clicked {
+  margin-left:90px;
+}
+#clicking {
+  margin-left:105px;
+}
+#clickers {
+  margin-left:100px;
+}
+#clickeds {
+  margin-left:84px;
+}
+#clickend {
+  margin-left:65px;
+}
+.btn-primary {
+  background-color:sienna;
+  border-color:black;
+}
+.btn-secondary {
+  background-color:khaki;
+  border-color:black;
+  color:black;
+}
+.jumbotron {
+  background-color:khaki;
+  color:black;
+  padding:10px 15px 10px 15px;
+}
+#local {
+  text-align:center;
+}
+#side {
+  padding:5px 10px 5px 10px;
+  margin:10px 5px;
+  background-color:khaki;
+}
+p{
+  color:black;
+  word-spacing:2px;
+  font-size:21px;
+  font-family:cursive;
+}
+#end {
+  text-align:center;
+  font-size:23px;
+  color:white;
+}
+#endgame {
+  text-align:center;
+  font-size:25px;
+  color:black;
+}
+#endnow {
+  text-align:center;
+  font-size:21px;
+  font-family:cursive;
+  border:1px solid khaki;
+  background-color:khaki;
+  padding:5px 0 5px 0;
+  color:black;
+}
